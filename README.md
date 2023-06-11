@@ -1,2 +1,2 @@
 # SculpfunS10-Lightburn
-Fichiers utilisés lors du test du laser Sculpfun S10
+Archive des fichiers utilisés lors du test du laser Sculpfun S10 pour le Blog <lesimpriumantes3d.fr>
